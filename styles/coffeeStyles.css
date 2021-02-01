@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #7E3C14;
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";}
+h1 {
+    text-align: center;
+}
+.p1 {
+	text-align: center;
+}
+.p2 {
+	text-align: center
+}
